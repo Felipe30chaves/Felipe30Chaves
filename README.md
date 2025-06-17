@@ -64,8 +64,8 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>
 <img 
     align="left" 
     alt="CSS" 
