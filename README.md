@@ -22,7 +22,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="Apache Airflow"
     title="Apache Airflo" 
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
 />
@@ -30,7 +30,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="Apache Airflow"
     title="Apache Airflo" 
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
 />
@@ -38,7 +38,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -46,7 +46,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
@@ -54,7 +54,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -62,7 +62,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
 
@@ -70,7 +70,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://images.seeklogo.com/logo-png/61/1/databricks-icon-logo-png_seeklogo-611588.png" 
 />
@@ -78,7 +78,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" 
 />
@@ -86,7 +86,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
@@ -94,7 +94,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="80px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7pFMzY0U6vzKswSdRHw8ctpFNsyIVOGPYA&s"
 />
