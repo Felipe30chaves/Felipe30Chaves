@@ -48,6 +48,14 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <img 
@@ -72,19 +80,9 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7pFMzY0U6vzKswSdRHw8ctpFNsyIVOGPYA&s"
 />
 
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -96,14 +94,14 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe30chaves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe30chaves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
