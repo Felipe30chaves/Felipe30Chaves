@@ -72,22 +72,6 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/61/1/databricks-icon-logo-png_seeklogo-611588.png" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img 
