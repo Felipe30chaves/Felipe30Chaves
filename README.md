@@ -150,11 +150,6 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 - [04 - Projetos AWS (Arquitetura e Engenharia)](./Projetos/Engenharia%20Anal%C3%ADtica/04%20-%20Projetos%20AWS)
 - [05 - Projetos Data Analytics (Power BI e Tableau)](./Projetos/Engenharia%20Anal%C3%ADtica/05%20-%20Projetos%20Data%20Analytics)
 
-### 🔬 Ciência de Dados
-- [Projetos de Machine Learning](./Projetos/Ci%C3%AAncia%20de%20Dados/Machine%20Learning)
-- [Projetos de Deep Learning](./Projetos/Ci%C3%AAncia%20de%20Dados/Deep%20Learning)
-- [Projetos de NLP](./Projetos/Ci%C3%AAncia%20de%20Dados/NLP)
-
   <h2>📫 Contato</h2>
   <p>
     - LinkedIn: <a href="https://www.linkedin.com/in/felipe-chaves-a140a322b/">linkedin.com/in/felipe-chaves</a><br>
