@@ -144,7 +144,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 <h2>📂 Projetos</h2>
 
 ### 🛠 Engenharia Analítica
-- [01 - Projetos Desenvolvimento Web e Dashboard Python](./Projetos/Engenharia%20Anal%C3%ADtica/01%20-%20Projetos%20Desenvolvimento%20Web%20e%20Dashboard%20Python)
+- [01 - Projetos Desenvolvimento Web e Dashboard Python](./Projetos/Engenharia%20Anal%C3%ADtica/01---Projetos-Desenvolvimento-Web-e-Dashboard-Python)
 - [02 - Projetos Modern stack (Airflow, dbt, Python, Snowflake)](./Projetos/Engenharia%20Anal%C3%ADtica/02%20-%20Projetos%20Modern%20stack)
 - [03 - Projetos Azure (Fabric, Data Factory, Synapse Analytics e Databricks)](./Projetos/Engenharia%20Anal%C3%ADtica/03%20-%20Projetos%20Azure)
 - [04 - Projetos AWS (Arquitetura e Engenharia)](./Projetos/Engenharia%20Anal%C3%ADtica/04%20-%20Projetos%20AWS)
