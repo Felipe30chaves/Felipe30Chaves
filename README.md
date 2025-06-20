@@ -64,7 +64,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 
   <h2>&nbsp;Tecnologias que eu uso</h2>
 
-  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,python,postgres,docker,kubernetes,terraform,github,git,kafka,postman,fastapi,vscode&theme=dark" />
+  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,gcp,python,postgres,docker,kubernetes,terraform,github,git,kafka,postman,fastapi,vscode&theme=dark" />
 
   <br>
   <img src="https://img.shields.io/badge/Databricks-EF3A2A?style=for-the-badge&logo=databricks&logoColor=white">
