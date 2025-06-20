@@ -3,7 +3,7 @@
 **`Analytics Engineer`**
 
 <div align="center">
-  <img width="1000px" src="./.github/assets/banner.png"/>
+  <img width="1000px" src"<a href="https://ibb.co/RTK0ZpJN"><img src="https://i.ibb.co/JjT70RSq/image.jpg" alt="image" border="0"></a>
 </div>
 
 <h3 align="center">
@@ -23,73 +23,6 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 </p>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Apache Airflow"
-    title="Apache Airflo" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Apache Airflow"
-    title="Apache Airflo" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7pFMzY0U6vzKswSdRHw8ctpFNsyIVOGPYA&s"
-/>
 
 <br/>
 <br/>
@@ -133,7 +66,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 
   <h2>&nbsp;Tecnologias que eu uso</h2>
 
-  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,python,postgres,docker,kubernetes,terraform,linux,github,git,kafka,postman,mongo,fastapi,vscode&theme=dark" />
+  <img width="800px" src="https://skillicons.dev/icons?i=azure,aws,python,postgres,docker,kubernetes,terraform,github,git,kafka,postman,fastapi,vscode&theme=dark" />
 
   <br>
   <img src="https://img.shields.io/badge/Databricks-EF3A2A?style=for-the-badge&logo=databricks&logoColor=white">
@@ -144,7 +77,7 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 <h2>📂 Projetos</h2>
 
 ### 🛠 Engenharia Analítica
-- [01 - Projetos Desenvolvimento Web e Dashboard Python](https://github.com/Felipe30chaves/01---Projetos-Desenvolvimento-Web-e-Dashboard-Python)
+- [01 - Projetos Desenvolvimento Web e Dashboard Python](./Projetos/Engenharia%20Anal%C3%ADtica/01%20-%20Projetos%20Desenvolvimento%20Web%20e%20Dashboard%20Python)
 - [02 - Projetos Modern stack (Airflow, dbt, Python, Snowflake)](./Projetos/Engenharia%20Anal%C3%ADtica/02%20-%20Projetos%20Modern%20stack)
 - [03 - Projetos Azure (Fabric, Data Factory, Synapse Analytics e Databricks)](./Projetos/Engenharia%20Anal%C3%ADtica/03%20-%20Projetos%20Azure)
 - [04 - Projetos AWS (Arquitetura e Engenharia)](./Projetos/Engenharia%20Anal%C3%ADtica/04%20-%20Projetos%20AWS)
