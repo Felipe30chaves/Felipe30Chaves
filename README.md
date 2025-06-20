@@ -3,7 +3,7 @@
 **`Analytics Engineer`**
 
 <div align="center">
-  <img width="1000px" src"<a href="https://ibb.co/RTK0ZpJN"><img src="https://i.ibb.co/JjT70RSq/image.jpg" alt="image" border="0"></a>
+  <img width="1000px" src="<a href='https://ibb.co/RTK0ZpJN'><img src='https://i.ibb.co/JjT70RSq/image.jpg' alt='image' border='0'></a>">
 </div>
 
 <h3 align="center">
@@ -29,13 +29,11 @@ Me chamo Felipe Chaves, tenho 32 anos e sou natural de Fortaleza, Ceará. Conclu
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 24px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe30chaves&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"
-       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe30chaves&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"
-       style="width: 370px; height: 200px; object-fit: contain; background: #0d1117; border-radius: 12px;"/>
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe30chaves&show_icons=true&count_private=true&theme=github_dark" width="370px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe30chaves&layout=compact&theme=github_dark" width="370px" />
 </div>
-<br>
+
 <br>
 
 <div align="center">
